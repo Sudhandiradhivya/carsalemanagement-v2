@@ -14,6 +14,7 @@ describe('AboutComponent', () => {
       declarations: [ AboutComponent ]
     })
     .compileComponents();
+
   }));
 
   beforeEach(() => {

@@ -14,7 +14,9 @@ describe('AdminHeaderComponent', () => {
       declarations: [ AdminHeaderComponent ]
     })
     .compileComponents();
+    
   }));
+
 
   beforeEach(() => {
     fixture = TestBed.createComponent(AdminHeaderComponent);

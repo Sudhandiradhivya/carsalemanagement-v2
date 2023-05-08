@@ -16,6 +16,7 @@ describe('AdminFooterComponent', () => {
     .compileComponents();
   }));
 
+  
   beforeEach(() => {
     fixture = TestBed.createComponent(AdminFooterComponent);
     component = fixture.componentInstance;
